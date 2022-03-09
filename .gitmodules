@@ -1,0 +1,3 @@
+[submodule "Feed-Forward-Neural-Network"]
+	path = Feed-Forward-Neural-Network
+	url = https://github.com/Jose-Salcido/Feed-Forward-Neural-Network.git
